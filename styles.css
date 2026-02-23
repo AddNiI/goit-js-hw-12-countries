@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f6fa;
+  padding: 40px;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.country-list {
+  list-style: none;
+  padding: 0;
+}
+
+.country-list li {
+  padding: 4px 0;
+}
+
+.country-card img {
+  width: 200px;
+  display: block;
+  margin-top: 10px;
+}
